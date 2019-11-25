@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 import pe.spring.demo.entities.Empleado;
 import pe.spring.demo.services.IEmpleadoService;
 
-@RestController
-@RequestMapping("/empleados")
+/*@RestController
+@RequestMapping("/empleados")*/
 public class EmpleadoRestController {
 	
 	@Autowired
