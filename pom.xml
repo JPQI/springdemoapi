@@ -13,7 +13,7 @@
         <org.springframework.data.version>2.0.7.RELEASE</org.springframework.data.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <junit.version>4.12</junit.version>
-        <spring.security.version>5.2.1.RELEASE</spring.security.version>
+        <spring.security.version>5.5.7</spring.security.version>
     </properties>
 
     <dependencies>
